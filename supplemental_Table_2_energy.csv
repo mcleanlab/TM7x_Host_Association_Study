@@ -1,0 +1,46 @@
+"Log fold ratios for comparisons. Red indicates significantly increased in Recovery phase versus XH001n. Blue decreased in Recovery versus XH001n. Green increased in Recovery, Yellow increased in the initial encounter.",,,
+Energy,,,
+Locus_tag,Recovery_6hours_vs_naive_ratio,Recovery_6hours_vs_initial_encounter_ratio,annotation
+APY09_00255,-0.24,-0.24,D-hexose-6-phosphate mutarotase
+APY09_00435,0.13,-0.70,enolase
+APY09_00570,0.73,0.47,glucose-6-phosphate isomerase
+APY09_00575,0.18,0.18,6-phosphofructokinase
+APY09_00590,0.49,0.72,phosphate acetyltransferase
+APY09_00595,0.14,0.10,acetate kinase
+APY09_00640,0.62,0.17,phosphomannomutase
+APY09_00890,0.37,0.68,Polyphosphate glucokinase (EC 2.7.1.63)
+APY09_01090,0.47,0.66,pyruvate oxidase
+APY09_01415,0.63,0.21,class II fructose-bisphosphate aldolase
+APY09_01975,0.92,0.58,"phosphoglucomutase, alpha-D-glucose phosphate-specific"
+APY09_03840,0.46,-0.10,Phosphoglycerate mutase (EC 5.4.2.1)
+APY09_03995,0.07,-0.15,"pyruvate, phosphate dikinase"
+APY09_04475,1.69,1.96,fructose-bisphosphate aldolase
+APY09_04800,-1.39,0.08,dihydrolipoyl dehydrogenase
+APY09_04805,-0.92,-0.41,dehydrogenase
+APY09_05215,-0.15,0.40,mannose-1-phosphate guanylyltransferase
+APY09_05225,-1.07,-0.42,hypothetical protein
+APY09_06140,-0.17,1.29,"mannose-6-phosphate isomerase, class I"
+APY09_07045,0.44,0.08,diphosphate dependent phosphofructokinase
+APY09_07250,0.78,1.21,pyruvate dehydrogenase E1
+APY09_07305,-0.55,-0.65,polyphosphate glucokinase
+APY09_07505,0.29,0.51,pdhC from tracking with APY09_07250
+APY09_07510,0.11,0.98,dihydrolipoyl dehydrogenase
+APY09_07790,-1.33,-0.81,polyprenol monophosphomannose synthase
+APY09_07945,-0.02,-0.86,triose-phosphate isomerase
+APY09_07950,0.64,0.22,phosphoglycerate kinase
+APY09_07955,0.48,-0.30,type I glyceraldehyde-3-phosphate dehydrogenase
+APY09_08075,0.25,0.02,pyruvate kinase
+APY09_09050,0.66,0.36,lactate dehydrogenase
+,,,
+TM7x_Locus_tag,Recovery6_vs_initial_ratio,annotation,
+TM7x_00195,-0.65,pgi_pmi glucose/mannose-6-phosphate isomerase [EC:5.3.1.9 5.3.1.8],
+TM7x_00685,-0.90,glcK glucokinase,
+TM7x_01645,-0.89,enolase,
+TM7x_01995,-0.01,L-lactate dehydrogenase (EC 1.1.1.27),
+TM7x_02415,0.99,pfkB phosphofructokinase 2 [EC:2.7.1..11],
+TM7x_02420,0.52,ketose-bisphosphate aldolase,
+TM7x_02455,1.63,glyceraldehyde-3-phosphate dehydrogenase,
+TM7x_02890,0.66,triosephosphate isomerase,
+TM7x_02895,0.47,phosphoglycerate kinase,
+TM7x_02900,0.40,pyruvate kinase,
+TM7x_03065,-1.27,phosphoglyceromutase,
