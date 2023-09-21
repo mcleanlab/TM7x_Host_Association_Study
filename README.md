@@ -6,11 +6,18 @@ Ultrasmall epibiont Nanosynbacter lyticus strain TM7x and host bacteria transcri
 This repository contains the following supplemental data files in .csv format:
 
 Supplemental Table 1. TM7x
+
 Supplemental Table 2. Host Anotation
+
 Supplemental Table 3. Host Description 
+
 Supplemental Table 4. Host Arginine
+
 Supplemental Table 5. Host Energy 
+
 Supplemental Table 6. Host Replication
+
 Supplemental Table 7. Host Secreation 
+
 Supplemental Table 8. Host Cell Membrane
 
