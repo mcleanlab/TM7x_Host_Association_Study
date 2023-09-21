@@ -1,0 +1,22 @@
+"Log fold ratios for comparisons. Red indicates significantly increased in Recovery phase versus XH001n. Blue decreased in Recovery versus XH001n. Green increased in Recovery, Yellow increased in the initial encounter.",,,
+DNA replication and cell cycle,,,
+Locus_tag,Recovery_6hours_vs_naive_ratio,Recovery_6hours_vs_initial_encounter_ratio,annotation
+APY09_00040,-0.64,-1.06,cell division protein FtsX
+APY09_00045,-0.68,-1.17,cell division ATP-binding protein FtsE
+APY09_02610,0.57,-0.18,chromosome partitioning protein
+APY09_03750,0.97,2.57,prevent-host-death protein
+APY09_05090,1.45,2.66,plasmid stabilization protein
+APY09_05095,1.36,2.52,Antitoxin component of a toxin-antitoxin (TA) module
+APY09_05905,-0.16,-0.58,antitoxin PHD
+APY09_07190,-1.37,-1.96,cell division protein DivIVA
+APY09_07895,-1.06,-0.98,segregation and condensation protein B
+APY09_07900,-1.02,-0.98,segregation and condensation protein A
+APY09_07905,-0.64,-0.36,chromosome partitioning protein
+APY09_08925,-0.94,-1.40,cell division protein SepF
+APY09_08955,-0.53,-1.22,cell division protein FtsW
+APY09_09960,-1.33,0.21,cell division protein FtsK
+,,,
+TM7x_Locus_tag,Recovery6_vs_initial_ratio,annotation,
+TM7x_00370,-0.52,cell division protein FtsK,
+TM7x_00785,-0.57,cell division protein FtsZ,
+TM7x_02800,0.77,Cell division protein FtsA,
